@@ -1,4 +1,4 @@
-# Rabbitmq exemplo
+# Rabbitmq example
 
 This project is a small example of implementation of rabbitmq, 
 it contains 1 API and possibility to use 2 queue. Feel free to fork or clone.
